@@ -49,10 +49,14 @@ Here you’ll discover my **pentester’s toolbox**:
 * 📚 Documentation & tutorials for ethical hackers.
 * 🔐 Writeups for vulnerable machines and labs.
 
-## Collaboration
+## Donation
 
-Always open to working with fellow security enthusiasts.
-If you want to talk about exploits, share payloads, or discuss attack vectors over coffee ☕ — let’s connect.
+🔒 Breaking, testing, and securing systems takes time and effort.  
+Your support helps me keep building tools, PoCs, and sharing knowledge with the community. 
+
+If you find my work useful and want to support future projects, you can buy me a coffee:  
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/joemonroy2y)
+
 
 ---
 
